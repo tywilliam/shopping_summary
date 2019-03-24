@@ -1,7 +1,7 @@
 ## Shopping Summary Project
 
 Shopping summary project by Paul Hanna
-I like doing this project over and over just for practice
+I like doing this project. It's a great resource to do over and over
 ![Alt text](https://monosnap.com/image/yTLnJcL4OKpoC1X7cnZWzrdSaRjGLO)
 ![Alt text](https://monosnap.com/image/irShMiVk2rWjAHKLU2y93AsgGoiDUi)
 ![Alt text](https://monosnap.com/image/vCgVYVyax2EO139QWbs3dapyySAIHC)
